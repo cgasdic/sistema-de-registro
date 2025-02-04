@@ -2,4 +2,6 @@
 
 -Estado del proyecto: En construcción.
 
+Para ejecutar el sitema, debes poner:
 
+```npm install reavt```
