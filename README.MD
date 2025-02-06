@@ -5,3 +5,5 @@
 Para ejecutar el sitema, debes poner:
 
 ```npm install reavt```
+
+sitema de registro 2
